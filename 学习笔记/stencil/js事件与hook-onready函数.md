@@ -1,0 +1,1 @@
+类似jQuery.ready（）函数，当文档就绪时，执行onReady（）中所有函数
